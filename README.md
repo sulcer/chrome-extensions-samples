@@ -9,4 +9,5 @@ Few quick and easy samples for Chrome Extensions and the Chrome Apps platform.
 
 ## Installation
 To experiment with these samples, please clone this repo and use 'Load Unpacked Extension'.
-(Bonus tip: refresh browser after loading and unpacking extension)
+<br/>
+(Bonus tip: close/reopen browser after loading and unpacking extension)
